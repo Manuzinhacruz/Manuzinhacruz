@@ -1,16 +1,15 @@
-### Hi there 👋
+**OIIEE** 🤍
 
-<!--
-**Manuzinhacruz/Manuzinhacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Emanuela 
 
-Here are some ideas to get you started:
+- Atualmente sou estudante
+- Vou utilizar esse espaço pra organização e compartilhamento dos meus próprio projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### SE quiser entrar em contato comigo 📧
+
+emanuela.cruz@escola.pr.gov.br
+
+
+
+![](https://media.tenor.com/W3rQGVxp5pYAAAAM/dance-happy.gif)
